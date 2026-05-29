@@ -33,10 +33,15 @@ A production-ready AI-powered cybersecurity monitoring system designed to detect
 
 ###  Key Features
  Login anomaly detection using Machine Learning
+ 
  Phishing email classification
+ 
  Dynamic risk scoring engine
+ 
  Real-time monitoring dashboard
+ 
  Threat categorization and alert analysis
+ 
 ###  Technologies Used
 Python • Spring Boot • Scikit-learn • Chart.js
 
@@ -59,16 +64,24 @@ Python-based application designed to analyze and process student academic perfor
 
 # 🏆 Certifications
 AWS Cloud Practitioner Essentials
+
  IBM CyberSecurity Fundamentals
+ 
  Cisco Ethical Hacker
+ 
  Cisco Junior CyberSecurity Analyst
+ 
  Frontend Web Developer Modern
+ 
  SQL Certification (HackerRank)
 
 # 📈 Achievements
  5-Star Python Badge on HackerRank
+ 
  Secretary at CyberIQ Club
+ 
  AWS Certified Learner
+ 
  Built AI-powered cybersecurity monitoring solutions
 
 # 🌐 Connect With Me
