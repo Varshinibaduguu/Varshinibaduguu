@@ -2,7 +2,7 @@
 
 Aspiring Full Stack Developer & Cybersecurity Enthusiast passionate about building AI-powered security solutions, scalable web applications, and cloud-integrated systems.I’m currently pursuing my Bachelor of Technology in Computer Science & Engineering at Anurag University, Hyderabad. My interests include Cybersecurity, Full Stack Development, Cloud Computing, and Machine Learning-based threat detection systems.
 
-## ABOUT ME
+## ABOUT ME :)
 * Exploring the intersection of AI + Cybersecurity + Full Stack Development
 * Building intelligent threat detection and monitoring systems
 * Developing responsive and modern web applications
@@ -40,7 +40,7 @@ A production-ready AI-powered cybersecurity monitoring system designed to detect
 ###  Technologies Used
 Python • Spring Boot • Scikit-learn • Chart.js
 
-#  Other Projects
+# 🎓 Other Projects
 ##  Network Security Assessment
 Performed vulnerability scanning and security analysis using Kali Linux and Bash scripting.
 ### Tools Used
@@ -48,7 +48,7 @@ Nmap • Bash • Kali Linux
 ##  Student Marks Analyzer
 Python-based application designed to analyze and process student academic performance efficiently.
 
-# Experience
+# 💼 Experience
 ##  HR Recruitment Intern — Deutsche Karriere Schule
 
  Jul 2025 – Sep 2025
