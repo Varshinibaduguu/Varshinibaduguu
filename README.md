@@ -57,9 +57,13 @@ Python-based application designed to analyze and process student academic perfor
 ##  HR Recruitment Intern — Deutsche Karriere Schule
 
  Jul 2025 – Sep 2025
+ 
  Worked on candidate sourcing and lead generation
+ 
  Used web scraping techniques for data collection
+ 
  Assisted in AI-driven recruitment analysis
+ 
  Supported recruitment and screening processes
 
 # 🏆 Certifications
@@ -86,8 +90,10 @@ AWS Cloud Practitioner Essentials
 
 # 🌐 Connect With Me
 Email: **[varshinibaduguu@gmail.com](mailto:varshinibaduguu@gmail.com)**
+
  LinkedIn:
 [www.linkedin.com/in/varshinibadugu](http://www.linkedin.com/in/varshinibadugu)
+
  HackerRank:
 https://www.hackerrank.com/profile/23eg105q22
 
