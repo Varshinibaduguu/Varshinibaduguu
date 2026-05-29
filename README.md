@@ -1,4 +1,4 @@
-Hey there, I'm Badugu Sri Varshini👋
+### Hey there, I'm Badugu Sri Varshini👋
 
 Aspiring Full Stack Developer & Cybersecurity Enthusiast passionate about building AI-powered security solutions, scalable web applications, and cloud-integrated systems.I’m currently pursuing my Bachelor of Technology in Computer Science & Engineering at Anurag University, Hyderabad. My interests include Cybersecurity, Full Stack Development, Cloud Computing, and Machine Learning-based threat detection systems.
 
