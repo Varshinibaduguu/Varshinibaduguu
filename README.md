@@ -36,9 +36,7 @@ Aspiring Full Stack Developer & Cybersecurity Enthusiast passionate about buildi
 
 <p align="left">
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Network%20Security-8A2BE2?style=for-the-badge"/>
 </p>
 
 ## ☁️ Cloud & Database
