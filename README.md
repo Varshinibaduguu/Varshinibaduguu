@@ -26,10 +26,8 @@ Aspiring Full Stack Developer & Cybersecurity Enthusiast passionate about buildi
 ## 🌐 Web Development
 
 <p align="left">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge"/>
 </p>
 
 ## 🔐 Cybersecurity
